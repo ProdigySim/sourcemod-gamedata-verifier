@@ -7,7 +7,7 @@ This is a deno program that will take a dll and a SourceMod Gamedata and search 
 ## Usage
 For now, just:
 ```bash
-deno run --allow-read index.ts --dll path/to/server.dll --gamedata .\left4dhooks.l4d2.txt
+deno run --allow-read index.ts --dll path/to/server.dll --gamedata path/to/gamedata.txt
 ```
 
 Other options:
