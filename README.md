@@ -3,6 +3,8 @@
 
 This is a deno program that will take a dll and a SourceMod Gamedata and search for all of the sigs in it.
 
+Currently only supports windows signatures, and only byte strings (no symbols/labels).
+
 
 ## Usage
 For now, just:
