@@ -5,6 +5,10 @@ This is a deno program that will take a dll and a SourceMod Gamedata and search 
 
 Currently only supports windows signatures, and only byte strings (no symbols/labels).
 
+Prior art / More complete solutions:
+[Psychonic's SourceMod GDC tool](https://github.com/alliedmodders/sourcemod/tree/master/tools/gdc-psyfork)
+[Scag's IDA gamedata checker](https://github.com/Scags/IDA-Scripts/blob/master/gamedata_checker.py)
+
 
 ## Usage
 For now, just:
